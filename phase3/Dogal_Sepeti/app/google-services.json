@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974922138240",
+    "firebase_url": "https://dogalsepetifinal.firebaseio.com",
+    "project_id": "dogalsepetifinal",
+    "storage_bucket": "dogalsepetifinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974922138240:android:f56e1b99982d81e47cdc65",
+        "android_client_info": {
+          "package_name": "org.com.example.dogal_sepeti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974922138240-i37dpdta07boq958el5b6bbqgl6u3jub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.com.example.dogal_sepeti",
+            "certificate_hash": "04f9e772cb022feb84bed1b81e8707843cc55433"
+          }
+        },
+        {
+          "client_id": "974922138240-iv0bejegeqfq3k63ddv2cdbl1hfi8e8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDThicPLOYIZSi55jtsFvbibLxV0aMD1DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974922138240-iv0bejegeqfq3k63ddv2cdbl1hfi8e8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
